@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Logo")(type "KiCad")(uri "C:/Users/Utilisateur/Documents/school/A23/ISO/Logo.pretty")(options "")(descr ""))
+  (lib (name "THT")(type "KiCad")(uri "C:/Users/Utilisateur/Documents/school/A23/ISO/THT.pretty")(options "")(descr ""))
+  (lib (name "SOIC127P1030X265-16N")(type "KiCad")(uri "${KIPRJMOD}/SOIC127P1030X265-16N.pretty")(options "")(descr ""))
+  (lib (name "THT_2")(type "KiCad")(uri "${KIPRJMOD}/THT_2.pretty")(options "")(descr ""))
+)
